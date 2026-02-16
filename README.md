@@ -1,1 +1,1 @@
-Collab Project Demo for GitHub branching understanding
+Collab Project Demo for GitHub branching understanding.
