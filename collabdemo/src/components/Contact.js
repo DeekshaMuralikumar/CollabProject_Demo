@@ -4,8 +4,8 @@ import './Contact.css';
 const Contact = () => {
     // List of team members for the dropdown
     const teamMembers = [
-        { name: "Mukilan", email: "2k22cse0@gmail.com" },
-        { name: "Kathirraj", email: "2k22cse@gmail.com" },
+        { name: "Mukilan", email: "2k22cse091@gmail.com" },
+        { name: "Kathirraj", email: "2k22cse071@gmail.com" },
         { name: "Kaviyashree", email: "gkaviyashree01@gmail.com" },
         { name: "Deeksha", email: "deekshamkt@gmail.com" }
     ];
