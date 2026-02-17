@@ -35,7 +35,7 @@ const About = () => {
                 <h2 className="team-title">Meet the Team</h2>
                 <div className="team-grid">
                     <div className="team-member">
-                        <div className="member-avatar">👩‍💻</div>
+                        <div className="member-avatar">👨‍💻</div>
                         <h4 className="member-name">Kathir</h4>
                         <p className="member-role">Team Leader</p>
                     </div>
@@ -45,12 +45,12 @@ const About = () => {
                         <p className="member-role">Home_Page_Designer</p>
                     </div>
                     <div className="team-member">
-                        <div className="member-avatar">👨‍💻</div>
+                        <div className="member-avatar">👩‍💻</div>
                         <h4 className="member-name">Kaviyashree</h4>
                         <p className="member-role">About_Page_Designer</p>
                     </div>
                     <div className="team-member">
-                        <div className="member-avatar">👨‍💻</div>
+                        <div className="member-avatar">👩‍💻</div>
                         <h4 className="member-name">Deeksha</h4>
                         <p className="member-role">Contact_Page_Designer</p>
                     </div>
